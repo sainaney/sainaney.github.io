@@ -1,0 +1,10 @@
+.navbar-default.navbar-shrink {
+    padding: 10px 0;
+    background-color: #829eb6;
+}
+
+.navbar-brand img {
+    width: 200px;
+    height: 200px;
+    margin-top: -0px;
+}
